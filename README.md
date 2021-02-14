@@ -1,4 +1,7 @@
 # shaka-player-vuejs
+This simple project contains basic implementation of shaka player with Nuxt.js.
+
+A running example can be found at [https://davidjamesherzog.github.io/shaka-player-vuejs/](https://davidjamesherzog.github.io/shaka-player-vuejs/).
 
 ## Project setup
 ```
@@ -24,6 +27,3 @@ npm run test:unit
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
